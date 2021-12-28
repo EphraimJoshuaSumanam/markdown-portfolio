@@ -1,3 +1,3 @@
-Replace this with a link to your a GitHub or media
+Replace this with a link to your a GitHub or social media
 
-[text] (https : //EphraimJoshuaSumanam/markdown-portfolio.com)
+[text](https://EphraimJoshuaSumanam/markdown-portfolio.com)
